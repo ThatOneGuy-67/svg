@@ -1,10 +1,10 @@
-importScripts("ysedc/3rmtli.js");
+importScripts("8z4ue/b2yca5.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_05xq5gv.shouldRoute(event)) {
-    event.respondWith(_05xq5gv.route(event));
+  if (_uiubjms.shouldRoute(event)) {
+    event.respondWith(_uiubjms.route(event));
   }
 });
